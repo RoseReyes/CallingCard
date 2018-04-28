@@ -1,0 +1,10 @@
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/bin/Debug/netcoreapp2.0/calling_card.deps.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/bin/Debug/netcoreapp2.0/calling_card.runtimeconfig.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/bin/Debug/netcoreapp2.0/calling_card.runtimeconfig.dev.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/bin/Debug/netcoreapp2.0/calling_card.dll
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/bin/Debug/netcoreapp2.0/calling_card.pdb
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/obj/Debug/netcoreapp2.0/calling_card.csproj.CoreCompileInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/obj/Debug/netcoreapp2.0/calling_card.AssemblyInfoInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/obj/Debug/netcoreapp2.0/calling_card.AssemblyInfo.cs
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/obj/Debug/netcoreapp2.0/calling_card.dll
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/calling_card/obj/Debug/netcoreapp2.0/calling_card.pdb
